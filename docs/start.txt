@@ -1,0 +1,5 @@
+====== Avalon ======
+Die Welt von Avalon ...
+
+===== indexmenu =====
+{{indexmenu>.#1}}
