@@ -1,11 +1,8 @@
-====== kapitel02 ======
+# chapter2
 
+## short descr 
 
-===== short descr =====
-
-
-90
-==== part1 ====
+### part1
   * shaggy und rakas sehen wie drei gestalten in das haus einbrechen.
   * dannach kamen sechs gestalten aus dem haus mit drei leuten auf der schulter.
   * rakkas wird von zwei schwarzen leuten entdeckt. sie verfolgen ihn.
