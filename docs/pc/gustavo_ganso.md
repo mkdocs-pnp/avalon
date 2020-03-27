@@ -23,7 +23,8 @@
 
 ### passive
 
-* meditation lvl III: halve two times the shinsu cost of a spell. this is playable one a day and regenerates at night.
+* meditation III: halve three times shinsu cost of spell.
+  * regenerates at night.
 
 ### active
 
