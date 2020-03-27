@@ -27,11 +27,11 @@
 
 ### active
 
-  * plant transformation lvl III
+* plant transformation lvl III
 
 ## inventory
 
-  * artefact0: shinsu costs lvl 2
-    * rented by artrus
-  * money: 97150
-  * 4 pockets
+* artefact0: shinsu costs lvl 2
+  * rented by artrus
+* money: 97150
+* 4 pockets
