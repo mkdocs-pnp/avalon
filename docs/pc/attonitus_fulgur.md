@@ -1,14 +1,12 @@
 # attonitus fulgur 
 
 ## stats
-
 * name: Attonitus Fulgur
 * age: 28
 * race: Human
 * job: -> Schmied Lvl 2
 * shinsu: 59 -> 
 * hp: 100
-
 * Intelligenz: 8 
 * Körper:      33
 * Gewandtheit: 31
