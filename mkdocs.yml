@@ -1,5 +1,2 @@
 site_name: "avalon" 
 theme: material
-nav:
-  - story: missing-link.md
-  - home: home.md
