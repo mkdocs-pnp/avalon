@@ -1,3 +1,4 @@
+
 # attonitus fulgur 
 
 ## stats
@@ -52,3 +53,7 @@
 ### Wagen & Pferd
 
 * Magischer Amboss
+
+##Idee
+* Armschiene mit der sich Elektropfeile verschießen lassen die die Gegner stunnen
+*Aufladbar über Shinsu
