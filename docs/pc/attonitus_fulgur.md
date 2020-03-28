@@ -9,7 +9,7 @@
 * shinsu: 59 -> 
 * hp: 100 
 * Intelligenz: 8 
-* Körper:      33
+* Körper:      38
 * Gewandtheit: 31
 * Charisma:    18
 * Shinsu:      16
