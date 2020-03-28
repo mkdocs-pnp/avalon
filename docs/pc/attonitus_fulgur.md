@@ -6,7 +6,7 @@
 * race: Human
 * job: -> Schmied Lvl 2
 * shinsu: 59 -> 
-* hp: 100
+* hp: 100 
 * Intelligenz: 8 
 * Körper:      33
 * Gewandtheit: 31
@@ -32,7 +32,7 @@
 * Blutstein                2w6 +3
 * Helm                     10
 * Wintermantel             10
-* stählerne Bulle         66 
+* stählerne Bulle         66 / 17
   * Artefaktslot - leer
   * ohne Standard Effekt
   * Drachenschuppen eingearbeitet
