@@ -21,9 +21,10 @@
 * Artefaktslot-Schmieden Lvl 1
 * Blitzmagie Lvl 2
   * W10 und gegen große Wesen
+* Rüstungen bekommen 1 Punkt pro 1K Chronicles
 
 ## inventory
-* money: 113330
+* money: 83.330
 
 ## Equipment
 
@@ -34,9 +35,9 @@
 
 * Rapidfire                2W6 x8
 * Blutstein                2w6 +3
-* Helm                     10 / 3
+* Helm                     10
 * Wintermantel             10
-* stählerne Bulle         66 / 17
+* stählerne Bulle         66
   * Artefaktslot - leer
   * ohne Standard Effekt
   * Drachenschuppen eingearbeitet
@@ -47,13 +48,21 @@
 
 ### Pet
 
-* Disruptio - Feuerdrache 
-  * Intelligenz: 8 
-  * Körper:      33
-  * Gewandtheit: 31
+* Disruptius - Feuerdrache 
+  * hp
+  * Intelligenz: 14
+  * Körper:      15
+  * Gewandtheit: 17
 
-    * Drachenei
-
+      * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
+      
+#### Pet Equipment
+ 
+ * Drachenei
+ * Rüstung: 33
+  * Halterung für das Ei
+    
+    
 ### Sehr geile Tasche
 
 * Trinkschlauch
@@ -68,6 +77,3 @@
 
 * Magischer Amboss
 
-##Idee
-* Armschiene mit der sich Elektropfeile verschießen lassen die die Gegner stunnen
-*Aufladbar über Shinsu
