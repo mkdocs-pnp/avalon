@@ -18,9 +18,9 @@
   * silbernes amulett aus der hölle
 * Dämonenkönig: niemand hat ihn je gesehen, aber es gibt ihn seit Anbeginn der Aufzeichnungen. Man weiß nichts über ihn außer, dass jeder Dämon sich vor seinem Tod bei ihm bedankt.
 * info: bib natursteine:
-  * wind träne mongolenwald
-  * wasser träne; darum requiem
-  * fire träne; nicht bekannt
+  * wind träne: limbuswald
+  * wasser träne: gilde requiem
+  * fire träne; mongolenwald 
   * stein träne; bei der sphinx
   * Omnikron: Man weiß nicht wie viele es gibt aber mindestens 3, eins gehört auf jeden Fall Ibrahim Nosliv, dem Herrscher von Ifland und der Dämonkönig hat wahrscheinlich auch eins
 
