@@ -1,6 +1,5 @@
-# chapter_name
+# chapter6
 
 ## short descr
 
 ###  part1
-+
