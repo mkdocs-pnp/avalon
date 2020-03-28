@@ -27,11 +27,14 @@
 
 ## Equipment
 
+## Artefakte
+* Shinsugefäß 17
+
 ### Weapons
 
 * Rapidfire                2W6 x8
 * Blutstein                2w6 +3
-* Helm                     10
+* Helm                     10 / 3
 * Wintermantel             10
 * stählerne Bulle         66 / 17
   * Artefaktslot - leer
@@ -39,6 +42,17 @@
   * Drachenschuppen eingearbeitet
   * versehen mit Kristallen (aufgeladen mit Strom)
   * halbiert Feuerschaden
+  * Mechanismus am Arm um Lähmungspfeile zu verschießen 
+    * auf Shinsu Würfeln
+
+### Pet
+
+* Disruptio - Feuerdrache 
+  * Intelligenz: 8 
+  * Körper:      33
+  * Gewandtheit: 31
+
+    * Drachenei
 
 ### Sehr geile Tasche
 
