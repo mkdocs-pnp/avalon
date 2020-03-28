@@ -23,8 +23,6 @@
 
 ## inventory
 * money: 113330
-* credit:
-  * Gustavo Ganzo: 2850 
 
 ## Equipment
 
