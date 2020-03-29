@@ -1,4 +1,4 @@
-# chapter6
+# chapter6 - disruptius
 
 ## short descr
 
@@ -15,3 +15,6 @@
 + Diruptius und sein Ei unversehrt zu Sir Artrius gebracht
 + Diruptius will unbedingt zum Drachenrat, damit dort sein Ei schlüpfen kann
 + In Drachenfeuer geschmiedete Gegenstände erhalten einen Bonus von 10% je Lvl des Drachen
+
+## meta
+level up gives 5 instead of 4 points
