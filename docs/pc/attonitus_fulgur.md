@@ -1,18 +1,21 @@
 
 # attonitus fulgur 
 
-## stats
+## about
 * name: Attonitus Fulgur
 * age: 28
 * race: Human
 * job: -> Schmied Lvl 2
 * shinsu: 59 -> 
 * hp: 100 
-* Intelligenz: 8 
-* Körper:      38
-* Gewandtheit: 31
-* Charisma:    18
-* Shinsu:      16
+ 
+## stats
+
+* int: 8
+* str: 38
+* dex: 31
+* charisma: 18
+* shinsu: 16
  
 ## skills
 
@@ -53,13 +56,12 @@
   * Intelligenz: 14
   * Körper:      15
   * Gewandtheit: 17
-
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
       
 #### Pet Equipment
  
- * Drachenei
- * Rüstung: 33
+* Drachenei
+* Rüstung: 33
   * Halterung für das Ei
     
     
