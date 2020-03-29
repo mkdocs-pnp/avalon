@@ -14,9 +14,9 @@
 ## stats
 
 * int: 25
-* kör: 25
-* dex: 32
-* charisma: 16
+* kör: 27
+* dex: 34
+* charisma: 17
 * shinsu: 12
 
 ## skills
