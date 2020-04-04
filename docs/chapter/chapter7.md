@@ -10,7 +10,7 @@
 + Rarkas bekommt informationen von "gher" zum anforderungskampf
 + Gher führt uns nach einem kräftigen Faustschlag in die Magengrube zum Colloseum und spenidert uns allen ein Bier
 + Dort kämpfen Baleer, einer der mächtigsten Dämonenfürsten gegen die Nachtschatten
-+ Baleer trägt Höllentorschlüssel Nr. 3
++ Rarkas fällt aus, dass Baleer Höllentorschlüssel Nr. 3 trägt
 + Baleer siegt imposant
 + Anschließend kämpft Toni in einem Bearknuckle-fight, siegt und gewinnt 10 Seelen
 + 
