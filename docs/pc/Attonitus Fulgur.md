@@ -25,6 +25,7 @@
 * Blitzmagie Lvl 2
   * W10 und gegen große Wesen
 * Rüstungen bekommen 1 Punkt pro 1K Chronicles
+ * Reparieren kostet 500 pro Punkt
 
 ## inventory
 * money: 83.330
