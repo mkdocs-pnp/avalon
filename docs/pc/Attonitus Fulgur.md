@@ -52,8 +52,8 @@
 
 ### Pet
 
-* Diruptius - Feuerdrache 
-  * hp:          10
+* Disruptius - Feuerdrache 
+  * hp:          120
   * Intelligenz: 14
   * Körper:      15
   * Gewandtheit: 17
