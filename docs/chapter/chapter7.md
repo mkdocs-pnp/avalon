@@ -20,7 +20,7 @@
 + der schuldschein der 10 seelen wird eingelöst
 + die party begibt sich in richtung der residenz von baleer
   + lord yaman wird erwähnt
- + Kette ist das Symbol der Macht 
++ Kette ist das Symbol der Macht 
   + 1 Steht für die Hölle, die Halbhölle
   + 2 in der befinden wir uns, das ist der Handels- und Lebensplatz
   + 3 ist das Tor zum Dämonenkönig
