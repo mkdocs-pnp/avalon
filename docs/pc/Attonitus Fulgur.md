@@ -12,10 +12,10 @@
 ## stats
 
 * int: 8
-* str: 38
+* str: 40
 * dex: 31
 * charisma: 18
-* shinsu: 16
+* shinsu: 19
  
 ## skills
 
