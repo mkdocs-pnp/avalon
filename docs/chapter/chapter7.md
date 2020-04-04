@@ -34,6 +34,12 @@
  + die party findet aus der hölle
  + die truppe bricht auf in den mongolenwald
 
+### part 4
+
++ lußnagir ist der drachen baba bei der feuerträne
++ der wurde überzeugt zu
+  + einem bündnis mit den langen lunten
+
 ### meta
 
 + kritischer treffer bei unteren und oberen zwei zahlen bei einem w20
