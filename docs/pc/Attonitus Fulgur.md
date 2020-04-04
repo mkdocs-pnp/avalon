@@ -52,7 +52,7 @@
 ### Pet
 
 * Disruptius - Feuerdrache 
-  * hp
+  * hp:          10
   * Intelligenz: 14
   * Körper:      15
   * Gewandtheit: 17
