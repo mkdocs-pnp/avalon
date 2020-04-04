@@ -5,8 +5,15 @@
 ###  part1
 
 + die gruppe tritt ein in das zweite höllentor 
++ alle tarnen sich als Sklaven von Rarkas
 + eine glocke leutet und die menschen strömen in die stadtmitte
-+ rakas bekommt informationen von "gher" zum anforderungskampf
++ Rarkas bekommt informationen von "gher" zum anforderungskampf
++ Gher führt uns nach einem kräftigen Faustschlag in die Magengrube zum Colloseum und spenidert uns allen ein Bier
++ Dort kämpfen Baleer, einer der mächtigsten Dämonenfürsten gegen die Nachtschatten
++ Baleer trägt Höllentorschlüssel Nr. 3
++ Baleer siegt imposant
++ Anschließend kämpft Toni in einem Bearknuckle-fight, siegt und gewinnt 10 Seelen
++ 
 
 ### meta
 
