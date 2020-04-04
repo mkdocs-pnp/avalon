@@ -20,6 +20,16 @@
 + der schuldschein der 10 seelen wird eingelöst
 + die party begibt sich in richtung der residenz von baleer
   + lord yaman wird erwähnt
+ + Kette ist das Symbol der Macht 
+  + 1 Steht für die Hölle, die Halbhölle
+  + 2 in der befinden wir uns, das ist der Handels- und Lebensplatz
+  + 3 ist das Tor zum Dämonenkönig
+
+### part 3 - Auftrag von Baleer
+
++ Findet Linar - eine rothaarige Hexe
+  + finden und sie erzählt uns den Rest. --> Map
+ + Lord Yama ist der 2. Fürtst aus Fakihr
 
 ### meta
 
