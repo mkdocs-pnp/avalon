@@ -13,7 +13,10 @@
 + Rarkas fällt aus, dass Baleer Höllentorschlüssel Nr. 3 trägt
 + Baleer siegt imposant
 + Anschließend kämpft Toni in einem Bearknuckle-fight, siegt und gewinnt 10 Seelen
-+ 
+
+### part 2
+
++ shaggy klaut ein seelengefäss mit kapazität für 30 seelen
 
 ### meta
 
