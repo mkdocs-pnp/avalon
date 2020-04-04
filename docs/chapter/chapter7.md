@@ -4,4 +4,4 @@
 
 ###  part1
 
-+ 
++ die gruppe tritt ein in das zweite höllentor 
