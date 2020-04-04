@@ -14,7 +14,7 @@
 + Baleer siegt imposant
 + Anschließend kämpft Toni in einem Bearknuckle-fight, siegt und gewinnt 10 Seelen
 
-### part 2
+### part 2 - Diebstahl
 
 + shaggy klaut ein seelengefäss mit kapazität für 30 seelen
 + der schuldschein der 10 seelen wird eingelöst
