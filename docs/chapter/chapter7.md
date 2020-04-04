@@ -29,6 +29,7 @@
 
 + Findet Linar - eine rothaarige Hexe
   + finden und sie erzählt uns den Rest. --> Map
+  + Auch ihr Tod und der Tod ihrer gesamten Familie ist eine Lösungsmöglichkeit
  + Lord Yama ist der 2. Fürtst aus Fakihr
 
 ### meta
