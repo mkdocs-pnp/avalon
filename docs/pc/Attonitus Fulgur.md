@@ -7,7 +7,7 @@
 * race: Human
 * job: -> Schmied Lvl 2
 * shinsu: 59 -> 
-* hp: 100 
+* hp: 100 -> 87
  
 ## stats
 
