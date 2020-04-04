@@ -17,6 +17,9 @@
 ### part 2
 
 + shaggy klaut ein seelengefäss mit kapazität für 30 seelen
++ der schuldschein der 10 seelen wird eingelöst
++ die party begibt sich in richtung der residenz von baleer
+  + lord yaman wird erwähnt
 
 ### meta
 
