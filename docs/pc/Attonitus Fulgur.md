@@ -54,7 +54,7 @@
 
 * Disruptius - Feuerdrache 
   * hp:          120
-  * Intelligenz: 14
+  * Intelligenz: 19
   * Körper:      15
   * Gewandtheit: 17
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
