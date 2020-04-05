@@ -2,7 +2,7 @@
 
 ===== about =====
 
-Süß Zargonien
+Aus Zargonien
 
 ===== info =====
   * name: Rakas
@@ -13,8 +13,7 @@ Süß Zargonien
   * hp: 100
 
 
-45
-31
+
 ===== stats =====
   * int: **11**
     * base: 
