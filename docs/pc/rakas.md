@@ -16,9 +16,9 @@
 ===== stats =====
   * int: **11**
     * base: 
-  * str: 32
+  * str: 34
     * base: 
-  * dex: **23**
+  * dex: **24**
     * base: 
   * charisma: 21
     * base: 
