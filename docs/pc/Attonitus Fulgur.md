@@ -7,15 +7,15 @@
 * race: Human
 * job: -> Schmied Lvl 2
 * shinsu: 59 -> 
-* hp: 100 -> 69
+* hp: 100 -> 
  
 ## stats
 
 * int: 8
 * str: 40
-* dex: 31
+* dex: 35
 * charisma: 18
-* shinsu: 19
+* shinsu: 20
  
 ## skills
 
