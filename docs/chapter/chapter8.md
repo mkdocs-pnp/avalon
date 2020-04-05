@@ -10,3 +10,4 @@
 + außerhalb vom mongolenwald trifft die party auf zwerge, die den nachbarwald abroden
 + die party begibt sich zum matador (der obermacker der zwerge)
   + tony ist faszinierd von der machanik und sympathisieren mit den zwergen
+  + shaggy und rakkas treffen den berater sowolus, der für blutgestein angestellt war
