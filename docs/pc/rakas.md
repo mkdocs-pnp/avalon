@@ -17,7 +17,7 @@ Aus Zargonien
 
 + int: 11
 + str: 34
-+ dex: 24
++ dex: 31
 + charisma: 21
 + shinsu: 11
 
