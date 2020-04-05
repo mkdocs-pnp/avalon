@@ -45,11 +45,10 @@ Aus Zargonien
 
 ### rüstung
 
-+ Rüstung: 
-  + Helm 10
-  + Spinnenrüstung 25 
-  + Armschienen 10
-  + Schild 10
++ Helm 10
++ Spinnenrüstung 25 
++ Armschienen 10
++ Schild 10
 
 ### waffen
 
