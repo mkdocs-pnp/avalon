@@ -1,5 +1,22 @@
 site_name: "avalon" 
 
+nav:
+  - about: 'about.md'
+  - chapters:
+    - 'chapter1': 'chapter/chapter1.md'
+    - 'chapter2': 'chapter/chapter2.md'
+    - 'chapter3': 'chapter/chapter3.md'
+    - 'chapter4': 'chapter/chapter4.md'
+    - 'chapter5': 'chapter/chapter5.md'
+    - 'chapter6': 'chapter/chapter6.md'
+    - 'chapter7': 'chapter/chapter7.md'
+    - 'chapter8': 'chapter/chapter8.md'
+  - 'character':
+    - 'attonitus': 'character/attonitus_fulgur.md'    
+    - 'rakas': 'character/rakas.md'
+    - 'gg': 'character/gustavo_ganso.md'
+    - 'shaggy': 'character/shaggy.md' 
+
 theme:
   name: material
   palette:
