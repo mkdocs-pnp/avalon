@@ -1,2 +1,10 @@
 site_name: "avalon" 
-theme: material
+
+theme:
+  name: material
+  palette:
+    primary: 'blue grey'
+    accent: 'red'
+  feature:
+    - instant
+    - tabs
