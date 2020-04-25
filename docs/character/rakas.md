@@ -11,7 +11,7 @@ Aus Zargonien
 + race: human
 + job: -> skill: Monster absorption
 + shinsu: 50
-+ hp: 100 -22 -19 -14
++ hp: 100 -22 -19 -14. -28
 
 ## stats
 
