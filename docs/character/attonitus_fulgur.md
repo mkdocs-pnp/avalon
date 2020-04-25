@@ -39,7 +39,7 @@
 
 * Rapidfire                2W6 x8
 * Blutstein                2w6 +3
-* schwarzer Tod            3W6 + **durchdringt Rüstung
+* schwarzer Tod            3W6 + **durchdringt Rüstung**
 * Helm                     10
 * Wintermantel             10
 * stählerne Bulle         66
