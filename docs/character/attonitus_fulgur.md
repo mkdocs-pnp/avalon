@@ -5,7 +5,7 @@
 * name: Attonitus Fulgur
 * age: 28
 * race: Human
-* job: -> Schmied Lvl 2
+* job: -> Schmied Lvl 3
 * shinsu: 59 (76) -> 
 * hp: 100 -> 
  
