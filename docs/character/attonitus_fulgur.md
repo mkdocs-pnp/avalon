@@ -29,7 +29,7 @@
   * Reparieren kostet 500 pro Punkt
 
 ## inventory
-* money: 47.330
+* money: 27.330
 
 ## Equipment
 
