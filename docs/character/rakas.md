@@ -28,7 +28,7 @@ Aus Zargonien
 + dunkle magie: malus buff
 + Flügel 
 + Tag -5 Nacht +10
-+ Säure speien
++ Säure speien 50 und 10 in 4 nächstem runden
 
 
 ## inventory
