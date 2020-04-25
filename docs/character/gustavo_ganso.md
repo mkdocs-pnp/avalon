@@ -34,5 +34,5 @@
 
 * artefact0: shinsu costs lvl 2
   * rented by artrus
-* money: 97150
+* money: 96150
 * 4 pockets
