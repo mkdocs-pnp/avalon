@@ -34,7 +34,7 @@
   * Schäden: 1*W6
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
   * Schäden: 3*W6
-* Schwarzer Bulle
+* Stählerner Bulle
   * Rüstung 60
 * Magische Enterhaken Hand 
 * Dolch
