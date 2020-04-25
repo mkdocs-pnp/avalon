@@ -32,7 +32,7 @@ Aus Zargonien
 
 
 ## inventory
-+ money: 111000
++ money: 104112
 + Sonnenstein Synonym Flashgranate
 + Heiltrank 50lp
 + Drachenei
@@ -45,7 +45,7 @@ Aus Zargonien
 
 ### rüstung
 
-+ Helm 10
++ Helm 10/ Helm 5 +schaden
 + Spinnenrüstung 25 
 + Armschienen 10
 + Schild 10
