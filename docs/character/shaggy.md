@@ -29,7 +29,7 @@
 
 ## inventory
 
-* money: 111.650 
+* money: 19.350
 * Fächer: schwarze Lust: +1 LVL Charisma 
   * Schäden: 1*W6
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
