@@ -36,5 +36,5 @@
   * rented by artrus
 * artefact1: magische lampe
 * helm: 12 def ; 5 magic attack
-* money: 64150
+* money: 63850
 * 4 pockets
