@@ -34,5 +34,6 @@
 
 * artefact0: shinsu costs lvl 2
   * rented by artrus
-* money: 96150
+* helm: 12 def ; 5 magic attack
+* money: 79150
 * 4 pockets
