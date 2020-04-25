@@ -32,7 +32,7 @@ Aus Zargonien
 
 
 ## inventory
-+ money: 106362
++ money: 124362
 + Sonnenstein Synonym Flashgranate
 + Heiltrank 50lp
 + Drachenei
