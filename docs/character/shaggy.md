@@ -8,13 +8,13 @@
 * age: 35
 * race: Zwerg
 * job: -> skill: motivation, telekinese
-* shinsu: 153 -88
+* shinsu: 153 
 * hp: 100 
 
 ## stats
 
 * int: 25
-* kör: 27
+* kör: 27 +5 Rüstung
 * dex: 34
 * charisma: 17
 * shinsu: 12
@@ -34,10 +34,13 @@
   * Schäden: 1*W6
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
   * Schäden: 3*W6
+* Schwarzer Bulle
+  * Rüstung 60
 * Magische Enterhaken Hand 
 * Dolch
 * Riesenschere 2*W6
 * wintermantel
 * Dietrich
-* Rüstung 35
+* Helm: 
+  * Rüstung 35
 * 2* blau schimmerndes Metall     
