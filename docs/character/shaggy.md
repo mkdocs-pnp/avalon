@@ -4,7 +4,7 @@
 
 ## info
 
-* name: shaggy mc shaggistan
+* name: shaggy 
 * age: 35
 * race: Zwerg
 * job: -> skill: motivation, telekinese
