@@ -25,7 +25,7 @@
   * Entfernung: 10m
   * Gewicht: bis 20kg
 * Motivation:
-  * Kein Debuff für Kameraden, wenn sie unter 25 Leben kommen
+  * Kein Debuff für Kameraden, wenn sie unter 25 Leben kommen oder gegen andere Malus
 
 ## inventory
 
@@ -35,12 +35,12 @@
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
   * Schäden: 3*W6
 * Stählerner Bulle
-  * Rüstung 60
+  * Rüstung 60 -43= 17
 * Magische Enterhaken Hand 
 * Dolch
 * Riesenschere 2*W6
 * wintermantel
 * Dietrich
 * Helm: 
-  * Rüstung 35
+  * Rüstung 35 -30=5
 * 2* blau schimmerndes Metall     
