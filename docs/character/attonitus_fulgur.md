@@ -76,7 +76,7 @@
 * Schlüsselbund
 * Koboldmünzenvorrat 5x
 * Gutscheinblock von McPuff & Puff
- * Dienstleistungen aller Art ;)   
+  * Dienstleistungen aller Art ;)   
 * Schmiede Jordanien
 * den anderen etc.
 
