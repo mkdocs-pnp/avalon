@@ -6,7 +6,7 @@
 * age: 28
 * race: Human
 * job: -> Schmied Lvl 2
-* shinsu: 59 -> 
+* shinsu: 59 (76) -> 
 * hp: 100 -> 
  
 ## stats
