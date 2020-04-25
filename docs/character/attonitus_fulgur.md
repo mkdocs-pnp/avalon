@@ -13,8 +13,8 @@
 ## stats
 
 * int: 8
-* str: 40
-* dex: 35
+* str: 40 _(43)_
+* dex: 35 _(38)_
 * charisma: 18
 * shinsu: 20
  
@@ -41,7 +41,7 @@
 * Rapidfire                2W6 x8
 * Blutstein                2w6 +3
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
-* Helm                     10
+* Helm                     20 _+3 str +3 dex)_
 * Wintermantel             10
 * stählerne Bulle         66
   * Artefaktslot - leer
