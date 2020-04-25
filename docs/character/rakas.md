@@ -16,8 +16,8 @@ Aus Zargonien
 ## stats
 
 + int: 11
-+ str: 34
-+ dex: 31
++ str: 40
++ dex: 32
 + charisma: 21
 + shinsu: 11
 
@@ -43,10 +43,10 @@ Aus Zargonien
 + Schal
 + Wintermantel
 
-### rüstung
+### rüstung muss repariert werden
 
 + Helm 10/ Helm 5 +schaden
-+ Spinnenrüstung 25 
++ Spinnenrüstung 25 +6 Körper
 + Armschienen 10
 + Schild 10
 
