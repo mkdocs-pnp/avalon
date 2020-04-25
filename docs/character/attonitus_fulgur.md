@@ -7,14 +7,14 @@
 * race: Human
 * job: -> Schmied Lvl 3
   * 6 Skillpunkte der Wahl auf jede Rüstung
-* shinsu: 59 (76) -> 
-* hp: 100 -> 75
+* shinsu: 59 (76) -> 0
+* hp: 100 -> 95
  
 ## stats
 
 * int: 8
-* str: 40 _(43)_
-* dex: 35 _(38)_
+* str: 43 _(49)_
+* dex: 37 _(43)_
 * charisma: 18
 * shinsu: 20
  
@@ -41,13 +41,13 @@
 * Rapidfire                2W6 x8
 * Blutstein                2w6 +3
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
-* Helm                     20 _+3 str +3 dex)_
+* Helm                     20 _+3 str +3 dex_
 * Wintermantel             10
-* stählerne Bulle         66
+* stählerne Bulle         66 --> 59 _+3 str + 3dex_
   * Artefaktslot - leer
   * ohne Standard Effekt
   * Drachenschuppen eingearbeitet
-  * versehen mit Kristallen (aufgeladen mit Strom)
+  * versehen mit Kristallen (aufgeladen mit Strom x3)
   * halbiert Feuerschaden
   * Mechanismus am Arm um Lähmungspfeile zu verschießen 
     * auf Shinsu Würfeln
