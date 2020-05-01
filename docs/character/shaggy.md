@@ -30,6 +30,10 @@
 ## inventory
 
 * money: 19.350
+* Granatenwerfer: Kosten je Granate 3* W20
+  * Explosivschaden: 3*W10; Reichweite W4
+  * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
+  * Nebelgranate: Macht Nebel; Reichweite W20
 * Fächer: schwarze Lust: +1 LVL Charisma 
   * Schäden: 1*W6
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
