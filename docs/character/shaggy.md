@@ -15,7 +15,7 @@
 
 * int: 30
 * kör: 29 +11 Rüstung
-* dex: 40
+* dex: 45
 * charisma: 17
 * shinsu: 12
 
@@ -29,7 +29,7 @@
 
 ## inventory
 
-* money: 1.850
+* money: 41.850
 * Granatenwerfer: Kosten je Granate 3* W20
   * Explosivschaden: 3*W10; Reichweite W4
   * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
