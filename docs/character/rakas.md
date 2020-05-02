@@ -32,7 +32,7 @@ Aus Zargonien
 
 
 ## inventory
-+ money: 104112
++ money: 79112
 + Sonnenstein Synonym Flashgranate
 + Heiltrank 50lp
 + Drachenei
@@ -43,9 +43,9 @@ Aus Zargonien
 + Schal
 + Wintermantel
 
-### rüstung muss repariert werden
+### rüstung 
 
-+ Helm 10/ Helm 5 +schaden
++ Helm 10 kaputt / Helm 5 +5 Schaden
 + Spinnenrüstung 25 +6 Körper
 + Armschienen 10
 + Schild 10
