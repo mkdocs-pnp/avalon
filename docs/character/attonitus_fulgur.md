@@ -29,7 +29,7 @@
   * Reparieren kostet 500 pro Punkt
 
 ## inventory
-* money: 330 - > -60.000 bei Gigi
+* money: 330 - > 
 
 ## Equipment
 
@@ -43,8 +43,10 @@
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
 * ~Helm                     23 _+3 str +3 dex_ --> 0~
 * Wintermantel             10
-* Rüstung                  72 --> _+3 str + 3dex_
+* Rüstung                  66 --> (56) _+3 str + 3dex_
   * Artefaktslot - leer
+  * Drachenschuppen
+   * halbiert Feuerschaden
   * versehen mit Kristallen (aufgeladen mit Strom x3)
   * Mechanismus am Arm um Lähmungspfeile zu verschießen 
     * auf Shinsu Würfeln
