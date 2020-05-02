@@ -38,6 +38,10 @@
 * artefact0: shinsu costs lvl 2
   * rented by artrus
 * artefact1: magische lampe
-* helm: 12 def ; 5 magic attack
 * money: 13850
 * 4 pockets
+
+### armory 
+
+* helm: 12 def ; 5 magic attack
+* shield 50 def ; + 10 def 
