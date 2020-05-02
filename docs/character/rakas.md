@@ -52,6 +52,6 @@ Aus Zargonien
 
 ### waffen
 
-+ 2xKusanagi 3w6
++ 2xKusanagi 2w6 (nerf von 3w6)
 + Kettenwurfschwert 3w6, 2w6 bei wurf. Rausziehdmg 10
 + Tyrfing 3w6 +10 gegen Großtiere
