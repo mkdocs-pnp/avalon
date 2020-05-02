@@ -46,7 +46,7 @@
 * Rüstung                  66 --> (56) _+3 str + 3dex_
   * Artefaktslot - leer
   * Drachenschuppen
-   * halbiert Feuerschaden
+    * halbiert Feuerschaden
   * versehen mit Kristallen (aufgeladen mit Strom x3)
   * Mechanismus am Arm um Lähmungspfeile zu verschießen 
     * auf Shinsu Würfeln
