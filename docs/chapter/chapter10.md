@@ -2,10 +2,8 @@
 
 ## description
 
-###  parta
-
-
+### part a
 
 ### meta
 
-<changes_in_game_system>
+* die party trifft [rumputz]
