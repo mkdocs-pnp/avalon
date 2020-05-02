@@ -8,7 +8,7 @@
 * age: 35
 * race: Zwerg
 * job: -> skill: motivation, telekinese
-* shinsu: 153 -26= 117
+* shinsu: 153 -26= 127
 * hp: 100 
 
 ## stats
