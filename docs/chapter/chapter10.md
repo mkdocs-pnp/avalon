@@ -14,4 +14,4 @@
 ### part b
 
 * teardrops gilden treffen findet statt
-  * mit [lesbos], [bilbeborn] & [raben guide]
+  * mit [lesbos], [bilbeborn], [raben guide], [elaine], [nymbus], [teberian], [alcatraz], [sao banan]
