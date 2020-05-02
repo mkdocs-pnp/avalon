@@ -41,7 +41,7 @@
 * Rapidfire                2W6 x8
 * Blutstein                2w6 +10
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
-* ~Helm                     23 _+3 str +3 dex_ --> 0~
+* Helm                     23 --> (6) _+3 str +3 dex_ --> 0
 * Wintermantel             10
 * Rüstung                  66 --> (56) _+3 str + 3dex_
   * Artefaktslot - leer
