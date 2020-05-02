@@ -1,10 +1,10 @@
-# chapter<number> - <chapter_name>
+# chapter10
 
-## describtion
+## description
 
-###  part<incrementing_number>
+###  parta
 
-+ <describtion>
+
 
 ### meta
 
