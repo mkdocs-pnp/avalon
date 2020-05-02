@@ -11,7 +11,7 @@ Aus Zargonien
 + race: human
 + job: -> skill: Monster absorption
 + shinsu: 50
-+ hp: 100 Rüstung kaputt 52hp aktuell
++ hp: 100 Rüstung 
 
 ## stats
 
