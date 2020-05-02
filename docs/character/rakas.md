@@ -43,11 +43,10 @@ Aus Zargonien
 + Schal
 + Wintermantel
 
-### rüstung -22 -24
+### rüstung 
 
-+ Helm 10 kaputt / Helm 5 +5 Schaden
-+ Spinnenrüstung 25 +6 Körper
-+ Armschienen 10
++ Helm 5 +5 Schaden
++ Spinnenrüstung 35 +6 Körper
 + Schild 10
 
 ### waffen
