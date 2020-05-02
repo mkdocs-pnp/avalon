@@ -13,7 +13,7 @@
 
 ## stats
 
-* int: 25
+* int: 30
 * kör: 29 +11 Rüstung
 * dex: 40
 * charisma: 17
