@@ -17,7 +17,7 @@
 * str: 9
 * dex: 4
 * charisma: 4
-* shinsu: 71
+* shinsu: 71 (effektiv 77)
 
 ## skills
 
@@ -44,4 +44,6 @@
 ### armory 
 
 * helm: 12 def ; 5 magic attack
-* shield 50 def ; + 10 def 
+* shield 60 def
+  * 1 artefactslot
+  * + 6 shinsu
