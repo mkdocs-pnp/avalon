@@ -8,7 +8,7 @@
 * job: -> Schmied Lvl 3
   * 6 Skillpunkte der Wahl auf jede Rüstung
 * shinsu: 59 (76) -> 
-* hp: 100 -> 
+* hp: 100 -> 71
  
 ## stats
 
@@ -43,7 +43,7 @@
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
 * Helm                     23 _+3 str +3 dex_ --> 0
 * Wintermantel             10
-* stählerne Bulle         66 --> 1 _+3 str + 3dex_
+* stählerne Bulle         66 --> 0 _+3 str + 3dex_
   * Artefaktslot - leer
   * ohne Standard Effekt
   * Drachenschuppen eingearbeitet
