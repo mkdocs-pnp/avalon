@@ -16,7 +16,7 @@ Aus Zargonien
 ## stats
 
 + int: 11
-+ str: 40
++ str: 45
 + dex: 32
 + charisma: 21
 + shinsu: 11
