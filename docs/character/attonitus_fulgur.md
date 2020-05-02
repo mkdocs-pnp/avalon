@@ -7,8 +7,8 @@
 * race: Human
 * job: -> Schmied Lvl 3
   * 6 Skillpunkte der Wahl auf jede Rüstung
-* shinsu: 59 (76) -> 0
-* hp: 100 -> 95
+* shinsu: 59 (76) -> 
+* hp: 100 -> 
  
 ## stats
 
