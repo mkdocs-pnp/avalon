@@ -29,6 +29,9 @@
 ### active
 
 * plant transformation lvl III
+* name: temp dex boost.
+  * descrp: drink blue mushroom "stuff"
+  * effekt: lebenspunkte für drei runden in dex umwandeln. dannach negativ effekt. 
 
 ## inventory
 
