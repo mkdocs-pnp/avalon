@@ -4,7 +4,7 @@
 
 ###  part<incrementing_number>
 
-+ <describtion>
++ <description>
 
 ### meta
 
