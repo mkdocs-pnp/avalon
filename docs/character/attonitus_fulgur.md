@@ -13,7 +13,7 @@
 ## stats
 
 * int: 8
-* str: 43 _(49)_
+* str: 48 _(54)_
 * dex: 37 _(43)_
 * charisma: 18
 * shinsu: 20
