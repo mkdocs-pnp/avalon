@@ -17,7 +17,7 @@
 * str: 9
 * dex: 4
 * charisma: 4
-* shinsu: 71 (effektiv 77)
+* shinsu: 76 + 6(shield)
 
 ## skills
 
