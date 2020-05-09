@@ -8,8 +8,8 @@
 * age: 35
 * race: Zwerg
 * job: -> skill: motivation, telekinese
-* shinsu: 153 =66-37=0
-* hp: 100 -12-50=38-10=28+50=78-10=68-8=60
+* shinsu: 153 
+* hp: 100 
 
 ## stats
 
@@ -40,7 +40,6 @@
   * Schäden: 3*W6
 * Stählerner Bulle
   * Rüstung 60 -55=5
-  * Rüstung von Rakas 63
 * Magische Enterhaken Hand 
 * Dolch
 * Riesenschere 2*W6
