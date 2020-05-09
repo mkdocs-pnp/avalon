@@ -45,7 +45,7 @@
 * Helm                     23 --> (23) _+3 str +3 dex_
 * Wintermantel             10
 * Rüstung                  66 --> (66) _+3 str + 3dex_
-  * Artefaktslot - leer
+  * Artefaktslot - HP50
   * Drachenschuppen
     * halbiert Feuerschaden
   * versehen mit Kristallen (aufgeladen mit Strom x3)
