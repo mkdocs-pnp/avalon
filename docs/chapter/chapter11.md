@@ -3,3 +3,5 @@
 ## description
 
 ###  part a
+
+* info: bilbeborn kann teleportieren und beschwört taerdrops immer zusammen.
