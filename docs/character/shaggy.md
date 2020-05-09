@@ -14,7 +14,7 @@
 ## stats
 
 * int: 30
-* kör: 29 +11 Rüstung
+* kör: 29 +11 Rüstung+6 (Rakas)
 * dex: 45
 * charisma: 17
 * shinsu: 12
@@ -40,6 +40,7 @@
   * Schäden: 3*W6
 * Stählerner Bulle
   * Rüstung 60 -55=5
+  * Rüstung von Rakas 63
 * Magische Enterhaken Hand 
 * Dolch
 * Riesenschere 2*W6
