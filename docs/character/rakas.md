@@ -46,7 +46,7 @@ Aus Zargonien
 ### rüstung 
 
 + Helm 5 +5 Schaden
-+ Spinnenrüstung 102 +6 Körper
++ Spinnenrüstung 102 +6 Körper Artefakt Slot Ring
 + Schild 10
 
 ### waffen
