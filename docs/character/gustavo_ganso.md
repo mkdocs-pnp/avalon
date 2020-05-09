@@ -43,7 +43,9 @@
 
 ## inventory
 
-* money: 38850
+* money: 36850
+  * from debtors: 2000
+* debts: 
 * 4 pockets
 
 ### armory 
