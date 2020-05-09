@@ -2,4 +2,4 @@
 
 ## description
 
-###  parta
+###  part a
