@@ -46,4 +46,3 @@
 * wintermantel
 * Dietrich
 * 2* blau schimmerndes Metall   
-* Lebenstrank groß: Heilt um 50 HP  
