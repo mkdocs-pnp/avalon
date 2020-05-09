@@ -83,3 +83,11 @@
 
 * Magischer Amboss
 
+### Funktionsweise Skills
+* Rüstung: 
+Artefakt + 2 slots es geht verbesserung, 
+Wert punkte, Magie, artefakt
+
+Schild, Helm Waffe: 1 slot 
+
+
