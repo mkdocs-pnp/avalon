@@ -40,7 +40,7 @@
 ### Weapons
 
 * Rapidfire                2W6 x8
-* Blutstein                2w6 +10
+* Blutstein                2w6 +11
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
 * Helm                     23 --> (23) _+3 str +3 dex_
 * Wintermantel             10
