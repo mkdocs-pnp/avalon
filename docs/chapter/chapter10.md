@@ -1,6 +1,6 @@
 # chapter10
 
-## description[sao banan]
+## description
 
 ### part a
 
