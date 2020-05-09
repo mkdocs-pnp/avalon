@@ -46,7 +46,7 @@ Aus Zargonien
 ### rüstung -2 -39
 
 + Helm 5 +5 Schaden 
-+ Spinnenrüstung 102 +6 Körper Artefakt Slot Ring
+(+ Spinnenrüstung 102 +6 Körper Artefakt Slot Ring)bei shaggy
 + Schild 10
 
 ### waffen
