@@ -15,9 +15,9 @@
 
 * int: 18
 * str: 9
-* dex: 4
+* dex: 4 + 6(armor)
 * charisma: 4
-* shinsu: 76 + 6(shield)
+* shinsu: 76
 
 ## skills
 
@@ -47,6 +47,6 @@
 ### armory 
 
 * helm: 12 def ; 5 magic attack
-* shield 60 def
+* armor 60 def
   * 1 artefactslot
-  * + 6 shinsu
+  * + 6 dex
