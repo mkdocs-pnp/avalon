@@ -47,9 +47,11 @@
 ### armory 
 
 * helm: 12 def ; 5 magic attack
-* armor 60 def
+* armor
+  * 60 def
   * 1 artefactslot
   * 6 dex
-* shield
+* shield 
+  * 1 artefactslot
   * 5 def
   * 6 dex
