@@ -41,7 +41,7 @@
 
 ## inventory
 
-* money: 58850
+* money: 53850
 * 4 pockets
 
 ### armory 
@@ -49,4 +49,7 @@
 * helm: 12 def ; 5 magic attack
 * armor 60 def
   * 1 artefactslot
+  * + 6 dex
+* shield
+  * 5 def
   * + 6 dex
