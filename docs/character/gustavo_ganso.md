@@ -26,6 +26,8 @@
 * artefact0: shinsu costs lvl 2
   * rented by artrus
 * artefact1: magische lampe
+* artefact2(temp(shield)): shinsu potion 50 shinsu 
+* artefact3(temp(armor)): 
 
 ### passive
 
@@ -41,7 +43,7 @@
 
 ## inventory
 
-* money: 53850
+* money: 38850
 * 4 pockets
 
 ### armory 
