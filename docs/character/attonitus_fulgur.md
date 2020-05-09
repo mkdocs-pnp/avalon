@@ -8,7 +8,7 @@
 * job: -> Schmied Lvl 3
   * 6 Skillpunkte der Wahl auf jede Rüstung
 * shinsu: 59 (76) -> 
-* hp: 100 -> 71
+* hp: 100 ->
  
 ## stats
 
@@ -29,7 +29,7 @@
   * Reparieren kostet 500 pro Punkt
 
 ## inventory
-* money: 330 - > 
+* money: 330 - > 22.000
 
 ## Equipment
 
@@ -41,9 +41,9 @@
 * Rapidfire                2W6 x8
 * Blutstein                2w6 +10
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
-* Helm                     23 --> (6) _+3 str +3 dex_
+* Helm                     23 --> (23) _+3 str +3 dex_
 * Wintermantel             10
-* Rüstung                  66 --> (56) _+3 str + 3dex_
+* Rüstung                  66 --> (66) _+3 str + 3dex_
   * Artefaktslot - leer
   * Drachenschuppen
     * halbiert Feuerschaden
