@@ -21,6 +21,12 @@
 
 ## skills
 
+### artecfacts
+
+* artefact0: shinsu costs lvl 2
+  * rented by artrus
+* artefact1: magische lampe
+
 ### passive
 
 * meditation III: halve three times shinsu cost of spell.
@@ -35,10 +41,7 @@
 
 ## inventory
 
-* artefact0: shinsu costs lvl 2
-  * rented by artrus
-* artefact1: magische lampe
-* money: 13850
+* money: 13850 + 45000
 * 4 pockets
 
 ### armory 
