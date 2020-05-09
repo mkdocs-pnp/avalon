@@ -29,12 +29,13 @@
   * Reparieren kostet 500 pro Punkt
 
 ## inventory
-* money: 330 - > 22.000
+* money: 330 - > 2000 Schulden bei Gigi
 
 ## Equipment
 
 ## Artefakte
 * Shinsugefäß 17
+* HP 50
 
 ### Weapons
 
