@@ -9,7 +9,7 @@
 * race: Zwerg
 * job: -> skill: motivation, telekinese
 * shinsu: 153 =66-37=0
-* hp: 100 -12
+* hp: 100 -12-50=38
 
 ## stats
 
