@@ -29,7 +29,7 @@
 
 ## inventory
 
-* money: 42.850
+* money: 18.850
 * Granatenwerfer: Kosten je Granate 3* W20
   * Explosivschaden: 3*W10; Reichweite W4
   * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
@@ -47,4 +47,5 @@
 * Dietrich
 * Helm: 
   * Rüstung 35-30=5
-* 2* blau schimmerndes Metall     
+* 2* blau schimmerndes Metall   
+* Lebenstrank groß: Heilt um 50 HP  
