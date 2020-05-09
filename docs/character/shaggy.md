@@ -14,7 +14,7 @@
 ## stats
 
 * int: 30
-* kör: 29 +11 Rüstung+6 (Rakas)
+* kör: 29 +11 Rüstung
 * dex: 50
 * charisma: 17
 * shinsu: 12
