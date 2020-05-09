@@ -29,7 +29,7 @@
 
 ## inventory
 
-* money: 18.850
+* money: 81.350
 * Granatenwerfer: Kosten je Granate 3* W20
   * Explosivschaden: 3*W10; Reichweite W4
   * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
