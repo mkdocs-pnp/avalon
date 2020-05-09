@@ -43,9 +43,9 @@ Aus Zargonien
 + Schal
 + Wintermantel
 
-### rüstung 
+### rüstung -2 -39
 
-+ Helm 5 +5 Schaden
++ Helm 5 +5 Schaden 
 + Spinnenrüstung 102 +6 Körper Artefakt Slot Ring
 + Schild 10
 
