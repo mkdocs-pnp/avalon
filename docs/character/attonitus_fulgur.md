@@ -7,14 +7,14 @@
 * race: Human
 * job: -> Schmied Lvl 3
   * 6 Skillpunkte der Wahl auf jede Rüstung
-* shinsu: 59 (76) -> 66
-* hp: 100 -> 73
+* shinsu: 59 (76) -> 
+* hp: 100 -> 
  
 ## stats
 
 * int: 8
-* str: 48 _(54)_
-* dex: 37 _(43)_
+* str: 50 _(56)_
+* dex: 40 _(46)_
 * charisma: 18
 * shinsu: 20
  
@@ -56,7 +56,7 @@
 
 * Disruptius - Feuerdrache 
   * hp:          120
-  * Intelligenz: 21
+  * Intelligenz: 26
   * Körper:      15
   * Gewandtheit: 20
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
@@ -65,7 +65,7 @@
  
 * Drachenei
 * Rüstung: 33
-  * Halterung für das Ei
+  * Babydrache
     
     
 ### Sehr geile Tasche
