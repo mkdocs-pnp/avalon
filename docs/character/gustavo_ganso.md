@@ -27,7 +27,7 @@
   * rented by artrus
 * artefact1: magische lampe
 * artefact2(temp(shield)): shinsu potion 50 shinsu 
-* artefact3(temp(armor)): 
+* artefact3(temp(armor)): shinsu potion 50 shinsu
 
 ### passive
 
