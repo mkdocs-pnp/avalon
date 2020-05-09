@@ -29,7 +29,7 @@
 
 ## inventory
 
-* money: 46.850
+* money: 27.850
 * Granatenwerfer: Kosten je Granate 3* W20
   * Explosivschaden: 3*W10; Reichweite W4
   * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
@@ -39,12 +39,12 @@
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
   * Schäden: 3*W6
 * Stählerner Bulle
-  * Rüstung 60 - 8= 52
+  * Rüstung 60 
 * Magische Enterhaken Hand 
 * Dolch
 * Riesenschere 2*W6
 * wintermantel
 * Dietrich
 * Helm: 
-  * Rüstung 35 -30=5
+  * Rüstung 35 
 * 2* blau schimmerndes Metall     
