@@ -46,5 +46,5 @@
 * wintermantel
 * Dietrich
 * Helm: 
-  * Rüstung 35 
+  * Rüstung 35-30=5
 * 2* blau schimmerndes Metall     
