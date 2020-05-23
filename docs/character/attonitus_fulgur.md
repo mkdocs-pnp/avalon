@@ -80,6 +80,7 @@
 * den anderen etc.
 * 5 x Der Ring
 * goldene Medaille mit dem Abbild eines Drachendraconis
+* Coinograph von Udel Labra 
 
 ### Wagen & Pferd
 
