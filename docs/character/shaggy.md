@@ -31,7 +31,7 @@
 
 * money: 81.350
 * Granatenwerfer: Kosten je Granate 3* W20
-  * Explosivschaden: 3*W10; Reichweite W4
+  * Explosivschaden: 3*W10; Reichweite W4 radius
   * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
   * Nebelgranate: Macht Nebel; Länge: moderat; Reichweite W20
 * Fächer: schwarze Lust: +1 LVL Charisma 
