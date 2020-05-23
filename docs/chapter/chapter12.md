@@ -12,4 +12,8 @@ Rakas "steht" neben lus nagir auf ggs Ranke, Jasper geht in einem kometen Richtu
 Tony und Shaggy stehen direkt vor Lucifer, kampfbereit
 GG steht unten auf dem Boden
 
+Urek lvl 5
+Jasper lvl 5
+Lucifer lvl 4
+
 <changes_in_game_system>
