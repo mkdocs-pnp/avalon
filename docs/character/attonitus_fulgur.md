@@ -13,7 +13,7 @@
 ## stats
 
 * int: 8
-* str: 50 _(56)_
+* str: 55 _(61)_
 * dex: 40 _(46)_
 * charisma: 18
 * shinsu: 20
@@ -56,7 +56,7 @@
 
 * Spliff - Feuerdrache 
   * hp:          120
-  * Intelligenz: 26
+  * Intelligenz: 31
   * Körper:      15
   * Gewandtheit: 20
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
