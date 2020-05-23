@@ -16,8 +16,8 @@ Aus Zargonien
 ## stats
 
 + int: 11
-+ str: 45
-+ dex: 32
++ str: 47
++ dex: 35
 + charisma: 21
 + shinsu: 11
 
@@ -46,7 +46,7 @@ Aus Zargonien
 ### rüstung -2 -39
 
 + Helm 5 +5 Schaden 
-(+ Spinnenrüstung 102 +6 Körper Artefakt Slot Ring)bei shaggy
++ Spinnenrüstung 102 +6 Körper Artefakt Slot Ring
 + Schild 10
 
 ### waffen
