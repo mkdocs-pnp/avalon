@@ -44,7 +44,7 @@
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
 * Helm                     23 --> (23) _+3 str +3 dex_
 * Wintermantel             10
-* Rüstung                  66 --> (54) _+3 str + 3dex_
+* Rüstung                  66 --> (59) _+3 str + 3dex_
   * Artefaktslot - HP50
   * Drachenschuppen
     * halbiert Feuerschaden
