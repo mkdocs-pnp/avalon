@@ -7,7 +7,7 @@
 + <description>
 
 ### wir sind mitten im Kampf
-Rakas "steht" neben lud nagir auf ggs Ranke, Jasper geht in einem kometen Richtung Boden
+Rakas "steht" neben lus nagir auf ggs Ranke, Jasper geht in einem kometen Richtung Boden
 
 Tony und Shaggy stehen direkt vor Lucifer, kampfbereit
 GG steht unten auf dem Boden
