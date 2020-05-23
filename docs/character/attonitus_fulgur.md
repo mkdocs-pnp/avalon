@@ -29,7 +29,7 @@
   * Reparieren kostet 500 pro Punkt
 
 ## inventory
-* money: 330 - > 2000 Schulden bei Gigi
+* money: 60.580
 
 ## Equipment
 
