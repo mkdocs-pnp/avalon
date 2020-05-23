@@ -54,7 +54,7 @@
 
 ### Pet
 
-* Disruptius - Feuerdrache 
+* Spliff - Feuerdrache 
   * hp:          120
   * Intelligenz: 26
   * Körper:      15
@@ -63,7 +63,6 @@
       
 #### Pet Equipment
  
-* Drachenei
 * Rüstung: 33
   * Babydrache
     
