@@ -25,11 +25,11 @@
 * Artefaktslot-Schmieden Lvl 1
 * Blitzmagie Lvl 2
   * W10 und gegen große Wesen
-* Rüstungen bekommen 1 Punkt pro 1K Chronicles
-  * Reparieren kostet 500 pro Punkt
+* Rüstungen bekommen 1 Punkt pro 500 Chronicles
+  * Reparieren kostet 250 pro Punkt
 
 ## inventory
-* money: 59.580
+* money: 49.080
 
 ## Equipment
 
@@ -44,7 +44,7 @@
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
 * Helm                     23 --> (23) _+3 str +3 dex_
 * Wintermantel             10
-* Rüstung                  66 --> (14) _+3 str + 3dex_
+* Rüstung                  66 --> (66) _+3 str + 3dex_
   * Artefaktslot - HP50
   * Drachenschuppen
     * halbiert Feuerschaden
