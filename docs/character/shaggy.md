@@ -8,7 +8,7 @@
 * age: 35
 * race: Zwerg
 * job: -> skill: motivation, telekinese
-* shinsu: 153 -35
+* shinsu: 153 
 * hp: 100 
 
 ## stats
@@ -29,7 +29,7 @@
 
 ## inventory
 
-* money: 80.350
+* money:78.350
 * Granatenwerfer: Kosten je Granate 3* W20
   * Explosivschaden: 3*W10; Reichweite W4 radius
   * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
@@ -39,7 +39,7 @@
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
   * Schäden: 3*W6
 * Stählerner Bulle
-  * Rüstung 60 -8
+  * Rüstung 60 
 * Magische Enterhaken Hand 
 * Dolch
 * Riesenschere 2*W6
