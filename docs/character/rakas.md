@@ -15,7 +15,7 @@ Aus Zargonien
 
 ## stats
 
-+ int: 11
++ int: 11 -4
 + str: 52
 + dex: 35
 + charisma: 21
