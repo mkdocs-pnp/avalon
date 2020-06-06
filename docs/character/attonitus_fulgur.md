@@ -29,7 +29,7 @@
   * Reparieren kostet 250 pro Punkt
 
 ## inventory
-* money: 49.080
+* money: 41.080
 
 ## Equipment
 
@@ -61,6 +61,9 @@
   * Gewandtheit: 20
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
       
+* Krösus der Papagei
+  *
+
 #### Pet Equipment
  
 * Rüstung: 33
