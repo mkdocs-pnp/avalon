@@ -81,7 +81,7 @@
   * Dienstleistungen aller Art ;)   
 * Schmiede Jordanien
 * den anderen etc.
-* 5 x Der Ring
+* 3 x Der Ring
 * goldene Medaille mit dem Abbild eines Drachendraconis
 * Coinograph von Udel Labra 
 
