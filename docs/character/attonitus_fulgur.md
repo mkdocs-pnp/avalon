@@ -13,8 +13,8 @@
 ## stats
 
 * int: 6
-* str: 55 _(61)_
-* dex: 40 _(46)_
+* str: 58 _(64)_
+* dex: 42 _(48)_
 * charisma: 18
 * shinsu: 20
  
@@ -29,7 +29,7 @@
   * Reparieren kostet 250 pro Punkt
 
 ## inventory
-* money: 41.080
+* money: 141.080
 
 ## Equipment
 
