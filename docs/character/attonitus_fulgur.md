@@ -20,9 +20,9 @@
  
 ## skills
 
-* Kristallschmieden Lvl 1
-* Magisches Schmieden Lvl 1
-* Artefaktslot-Schmieden Lvl 1
+* Kristallschmieden
+* Magisches Schmieden
+* Artefaktslot-Schmieden
 * Blitzmagie Lvl 2
   * W10 und gegen große Wesen
 * Rüstungen bekommen 1 Punkt pro 500 Chronicles
