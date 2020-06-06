@@ -1,8 +1,8 @@
-# chapter<number> - <chapter_name>
+# chapter13 - <chapter_name>
 
 ## describtion
 
-###  part<incrementing_number>
+###  part1
 
 + <description>
 
