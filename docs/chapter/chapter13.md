@@ -15,6 +15,8 @@ GG macht uns ein Boot mit Soundsystem und Kuh und damit fahren wir zum Piratenk�
 
 Auf der Insel des Piratenkönigs Rafael, schickt er uns zur Hexe um deren super Waffe zu finden 
 
+Um den Krieg gegen Requiem zu gewinnen holen wir uns unsere Verbündeten zur Hilfe: die Elfen (ca.30), Alkatras, die Bobelbinen und wir schlagen mit ihnen unser Lager auf.
+Dabei finden wir raus, dass der Ring eine "Gottseele" vorgaukelt, aber es bekommt jeder Demon auf der Welt mit und will diese Seele
 ### meta
 
 <changes_in_game_system>
