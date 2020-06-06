@@ -12,7 +12,7 @@
  
 ## stats
 
-* int: 8
+* int: 6
 * str: 55 _(61)_
 * dex: 40 _(46)_
 * charisma: 18
