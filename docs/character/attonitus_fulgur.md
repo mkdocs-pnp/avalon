@@ -54,9 +54,9 @@
 
 ### Pet
 
-* Spliff - Feuerdrache 
+* Disruptus - Feuerdrache 
   * hp:          120
-  * Intelligenz: 31
+  * Intelligenz: 36
   * Körper:      15
   * Gewandtheit: 20
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
