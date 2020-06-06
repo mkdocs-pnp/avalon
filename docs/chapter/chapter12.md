@@ -17,3 +17,5 @@ Jasper lvl 5
 Lucifer lvl 4
 
 <changes_in_game_system>
+
+Rüstungen von Tony kosten nurnoch 250 pro Punkt
