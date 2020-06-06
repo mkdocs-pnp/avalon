@@ -51,6 +51,7 @@ Aus Zargonien
 
 ### waffen
 
+Waffen Artefakt 5 in 1
 + 2xKusanagi 2w6 (nerf von 3w6)
 + Kettenwurfschwert 3w6, 2w6 bei wurf. Rausziehdmg 10
 + Tyrfing 3w6 +10 gegen Großtiere
