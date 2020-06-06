@@ -1,4 +1,4 @@
-# chapter13 - <chapter_name>
+# chapter13 - <Gottseelen>
 
 ## describtion
 
@@ -18,7 +18,7 @@ Auf der Insel des Piratenkönigs Rafael, schickt er uns zur Hexe um deren super 
 Um den Krieg gegen Requiem zu gewinnen holen wir uns unsere Verbündeten zur Hilfe: die Elfen (ca.30), Alkatras, die Bobelbinen und wir schlagen mit ihnen unser Lager auf.
 Dabei finden wir raus, dass der Ring eine "Gottseele" vorgaukelt, aber es bekommt jeder Demon auf der Welt mit und will diese Seele
 
-Wir machen einen Abstecher zum Turm von Sololes, bei der Naturträne wird Spliff, der Sohn von Disrupti, zu einer Gottseele; wir benutzen das Omnikron und seine Gottseele wird zu einer Dämonen Gottseele. Tonis Master verrät uns, dass wir um Spliffs Gottseele zu erwachen ihn zu allen Naturtränen bringen müssen
+Wir machen einen Abstecher auf dem Weg zu Requiem zum Turm von Sololes, bei der Naturträne wird Spliff, der Sohn von Disrupti, zu einer Gottseele; wir benutzen das Omnikron und seine Gottseele wird zu einer Dämonen Gottseele. Tonis Master verrät uns, dass wir um Spliffs Gottseele zu erwachen ihn zu allen Naturtränen bringen müssen
 ### meta
 
 <changes_in_game_system>
