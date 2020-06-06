@@ -15,8 +15,8 @@ Aus Zargonien
 
 ## stats
 
-+ int: 11 -4
-+ str: 52
++ int: 11 -4 danke spielleiter
++ str: 57
 + dex: 35
 + charisma: 21
 + shinsu: 11
