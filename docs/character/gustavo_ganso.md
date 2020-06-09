@@ -2,6 +2,8 @@
 
 ## about
 
++ level cap artifact costs 600000.
+
 ## info
 
 * name: gustavo ganso
