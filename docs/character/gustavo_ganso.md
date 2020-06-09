@@ -17,7 +17,7 @@
 * str: 9
 * dex: 4 + 6(armor) + 6(shield)
 * charisma: 4
-* shinsu: 87
+* shinsu: 92
 
 ## skills
 
