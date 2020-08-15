@@ -29,7 +29,7 @@
 
 ## inventory
 
-* money:139.850
+* money:135.350
 * Granatenwerfer: Kosten je Granate 3* W20
   * Explosivschaden: 3*W10; Reichweite W4 radius
   * Blendgranate: Gegner sind 2 Runden geblendet; Reichweite W10 Durchmesser 
@@ -42,6 +42,7 @@
   * Rüstung 60 
 * Magische Enterhaken Hand 
 * Dolch
+* Kampfbumerang: 1*W6+2
 * Riesenschere 2*W6
 * wintermantel
 * Dietrich
