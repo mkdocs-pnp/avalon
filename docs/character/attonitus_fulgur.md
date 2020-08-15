@@ -13,8 +13,8 @@
 ## stats
 
 * int: 6
-* str: 58 _(64)_
-* dex: 42 _(48)_
+* str: 60 _(66)_
+* dex: 45 _(51)_
 * charisma: 18
 * shinsu: 20
  
@@ -58,7 +58,7 @@
   * hp:          120
   * Intelligenz: 36
   * Körper:      15
-  * Gewandtheit: 20
+  * Gewandtheit: 25
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
       
 * Krösus der Papagei
