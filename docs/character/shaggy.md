@@ -9,7 +9,7 @@
 * race: Zwerg
 * job: -> skill: motivation, telekinese
 * shinsu: 153 -71
-* hp: 100 -30
+* hp: 100 -60
 
 ## stats
 
@@ -39,7 +39,7 @@
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
   * Schäden: 3*W6
 * Stählerner Bulle
-  * Rüstung 60 -50
+  * Rüstung 60 
 * Magische Enterhaken Hand 
 * Dolch
 * Riesenschere 2*W6
