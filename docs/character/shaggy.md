@@ -15,7 +15,7 @@
 
 * int: 28
 * kör: 40+11 Rüstung
-* dex: 54
+* dex: 60
 * charisma: 17
 * shinsu: 12
 
