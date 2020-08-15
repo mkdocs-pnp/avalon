@@ -11,7 +11,7 @@ Am Ende bekamen wir einen Brief mit folgendem Inhalt:
 
 Es sprang vergnügt ein henkersmann 
 zur stadt hinein weil er es kann 
-Sucht die liebe in den Gassen 
+Sucht die liebe in den Gasse 
 Doch fand sie nicht ist das zu fassen 
 Stieß nur auf einen alten Mann 
 Der machte sich auch ganz schön ran 
@@ -19,4 +19,4 @@ Der machte sich auch ganz schön ran
 So tollten sie durch die weiten Wälder 
 Er trieb es hart mit diesem Elder
 Erschöpfend sanken sie unter einen Baum 
-Verschlungen wie eine vierundsechzig - John Biswog 13 17 54 60
+Verschlungen wie eine dreiundsechzig - John Biswog 13 17 53 59
