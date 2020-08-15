@@ -18,7 +18,7 @@ Aus Zargonien
 
 + int: 11 -4 danke spielleiter
 + str: 57
-+ dex: 35
++ dex: 40
 + charisma: 21
 + shinsu: 11
 
@@ -34,7 +34,6 @@ Aus Zargonien
 
 ## inventory
 + money: 74612
-+ Sonnenstein Synonym Flashgranate
 + Heiltrank 50lp
 + Drachenei
 + Goldsphynxkette
@@ -47,7 +46,7 @@ Aus Zargonien
 ### rüstung 
 
 + Helm 5 +5 Schaden 
-+ Spinnenrüstung 102 +6 Körper Artefakt Slot Ring
++ Spinnenrüstung 102 +6 str Artefakt Slot Ring
 + Schild 10
 
 ### waffen
