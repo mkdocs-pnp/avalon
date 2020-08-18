@@ -45,7 +45,7 @@
 
 ## inventory
 
-* money: 101,350
+* money: 63.850
 * 4 pockets
 
 ### armory 
