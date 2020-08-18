@@ -28,8 +28,8 @@
 * artefact0: shinsu costs lvl 2
   * rented by artrus
 * artefact1: magische lampe
-* artefact2(temp(shield)): shinsu potion 50 shinsu 
-* artefact3(temp(armor)): shinsu potion 50 shinsu
+* artefact2(temp(shield)): empty
+* artefact3(temp(armor)): empty
 
 ### passive
 
