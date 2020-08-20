@@ -20,3 +20,7 @@ So tollten sie durch die weiten Wälder
 Er trieb es hart mit diesem Elder
 Erschöpfend sanken sie unter einen Baum 
 Verschlungen wie eine dreiundsechzig - John Biswog 13 17 53 59
+
+Ergänzung zum henkerslied 
+In der schule schrie der lehrer 13 plus 17 ist nicht 53 doch hörte ihm kein
+ Kind mehr zu so ging er nach hause und schlief flüsternd ein "wichtig sind nur die zahlen"
