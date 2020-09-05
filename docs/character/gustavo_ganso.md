@@ -42,6 +42,9 @@
 * name: temp dex boost.
   * descrp: drink blue mushroom "stuff"
   * effekt: lebenspunkte für drei runden in dex umwandeln. dannach negativ effekt. 
+* aoe heal:
+  * first cast a forest in one round.
+  * afterwards heal 1x6 per round for all.
 
 ## inventory
 
