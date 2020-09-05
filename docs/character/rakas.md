@@ -46,7 +46,7 @@ Aus Zargonien
 ### rüstung 
 
 + Helm 5 +5 Schaden 
-+ Spinnenrüstung 102 +6 str Artefakt Slot Ring
++ Spinnenrüstung 302 +6 str Artefakt Slot Ring
 + Schild 10
 
 ### waffen
@@ -55,3 +55,4 @@ Waffen Artefakt 5 in 1
 + 2xKusanagi 2w6 (nerf von 3w6)
 + Kettenwurfschwert 3w6, 2w6 bei wurf. Rausziehdmg 10
 + Tyrfing 3w6 +10 gegen Großtiere
++ großschwert 4w6 durchdringender schaden
