@@ -13,10 +13,10 @@
 
 ## stats
 
-* int: 28
+* int: 30
 * kör: 40+11 Rüstung
 * dex: 59
-* charisma: 17
+* charisma: 20
 * shinsu: 12
 
 ## skills
