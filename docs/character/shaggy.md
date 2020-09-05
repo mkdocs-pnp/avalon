@@ -41,6 +41,8 @@
   * Schäden: 3*W6
 * Stählerner Bulle
   * Rüstung 60 
+* Helm: 
+  * Rüstung 100
 * Magische Enterhaken Hand 
 * Dolch
 * Kampfbumerang: 1*W6+2
