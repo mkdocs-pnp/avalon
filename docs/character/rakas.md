@@ -48,6 +48,7 @@ Aus Zargonien
 + Helm 5 +5 Schaden 
 + Spinnenrüstung 302 +6 str Artefakt Slot Ring
 + Schild 10
++ magischer Schutzmantel 100 mdef
 
 ### waffen
 
