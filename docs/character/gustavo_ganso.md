@@ -2,8 +2,6 @@
 
 ## about
 
-+ level cap artifact costs 600000.
-
 ## info
 
 * name: gustavo ganso
@@ -28,8 +26,9 @@
 * artefact0: shinsu costs lvl 2
   * rented by artrus
 * artefact1: magische lampe
-* artefact2(temp(shield)): empty
+* artefact2(temp(helm)): lvl cap (6) 
 * artefact3(temp(armor)): empty
+* artefact4(temp(shield)): empty
 
 ### passive
 
@@ -53,7 +52,12 @@
 
 ### armory 
 
-* helm: 12 def ; 5 magic attack
+* helm:
+  * 44 def
+  * 1 artefactslot
+  * 6 dex
+  * +2 riding (horses too)
+  * +2 trading
 * armor
   * 60 def
   * 1 artefactslot
