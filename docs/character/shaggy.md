@@ -50,3 +50,4 @@
 * wintermantel
 * Dietrich
 * 2* blau schimmerndes Metall   
+* 2* große Health potion
