@@ -8,7 +8,7 @@
 * age: 15
 * race: elve
 * job: -> skill: meditation
-* shinsu: 174
+* shinsu: 174 * 2 (artefact)
 * hp: 100
 
 ## stats
@@ -25,8 +25,9 @@
 
 * artefact0: shinsu costs lvl 2
   * rented by artrus
-* artefact1: magische lampe
-* artefact2(temp(helm)): lvl cap (6) 
+* artefact1: lvl cap (max 6)
+double shinsu 
+* artefact2(temp(helm)): 
 * artefact3(temp(armor)): empty
 * artefact4(temp(shield)): empty
 
@@ -47,7 +48,7 @@
 
 ## inventory
 
-* money: 63.850
+* money: 8.063.850
 * 4 pockets
 
 ### armory 
