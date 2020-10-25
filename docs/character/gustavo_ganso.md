@@ -2,6 +2,8 @@
 
 ## about
 
+kids camp at gaia. trained to be assasins.
+
 ## info
 
 * name: gustavo ganso
@@ -48,7 +50,7 @@ double shinsu
 
 ## inventory
 
-* money: 8.063.850
+* money: 6.063.850
 * 4 pockets
 
 ### armory 
