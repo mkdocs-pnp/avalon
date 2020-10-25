@@ -15,7 +15,7 @@
 
 * int: 18
 * str: 9
-* dex: 4 + 6(armor) + 6(shield)
+* dex: 4 + 6(helm) + 6(armor) + 6(shield)
 * charisma: 4
 * shinsu: 102
 
