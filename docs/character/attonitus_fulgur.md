@@ -23,8 +23,9 @@
 * Kristallschmieden
 * Magisches Schmieden
 * Artefaktslot-Schmieden
-* Blitzmagie Lvl 2
+* Blitzmagie Lvl 3
   * W10 und gegen große Wesen
+  * W10 --> Anzahl der Runden die der Effekt anhält
 * Rüstungen bekommen 1 Punkt pro 500 Chronicles
   * Reparieren kostet 250 pro Punkt
 
