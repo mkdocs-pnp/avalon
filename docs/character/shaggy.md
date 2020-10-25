@@ -38,7 +38,7 @@
 * Fächer: schwarze Lust: +1 LVL Charisma 
   * Schäden: 1*W6
 * Peitsche Juwel: bei Treffern springt Energieblitz mit Hälfte des Schadens, der auf 2 andere Gegner überspringt
-  * Schäden: 3*W6
+  * Schäden: 4*W6
 * Kunai 1*W6 +1 im Nahkampf 
 * Stählerner Bulle
   * Rüstung 60 
