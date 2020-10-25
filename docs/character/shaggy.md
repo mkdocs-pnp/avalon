@@ -41,7 +41,7 @@
   * Schäden: 4*W6
 * Kunai 1*W6 +1 im Nahkampf 
 * Stählerner Bulle
-  * Rüstung 720
+  * Rüstung 600
 * Helm: 
   * Rüstung 110 + Artefaktslot 
 * Magische Enterhaken Hand 
