@@ -50,7 +50,7 @@ double shinsu
 
 ## inventory
 
-* money: 6.063.850
+* money: 3.563.850
 * 4 pockets
 
 ### armory 
@@ -62,7 +62,7 @@ double shinsu
   * +2 riding (horses too)
   * +2 trading
 * armor
-  * 60 def
+  * 600 def
   * 1 artefactslot
   * 6 dex
 * shield 
