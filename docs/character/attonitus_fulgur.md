@@ -13,7 +13,7 @@
 ## stats
 
 * int: 6
-* str: 60 _(66)_
+* str: 65 _(71)_
 * dex: 45 _(51)_
 * charisma: 18
 * shinsu: 20
@@ -58,7 +58,7 @@
 
 * Disruptus - Feuerdrache 
   * hp:          120
-  * Intelligenz: 36
+  * Intelligenz: 41
   * Körper:      15
   * Gewandtheit: 25
       * 10% Bonus je Lvl des Drachenfeuers für geschmiedete Gegenstände
