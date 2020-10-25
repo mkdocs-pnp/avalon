@@ -8,14 +8,14 @@
 * age: 35
 * race: Zwerg
 * job: -> skill: motivation, telekinese
-* shinsu: 153 -29(Granate)
+* shinsu: 153 
 * hp: 100 
 
 ## stats
 
 * int: 30
-* kör: 40+11 Rüstung
-* dex: 59
+* kör: 44+11 Rüstung
+* dex: 60
 * charisma: 20
 * shinsu: 12
 
@@ -41,7 +41,7 @@
   * Schäden: 4*W6
 * Kunai 1*W6 +1 im Nahkampf 
 * Stählerner Bulle
-  * Rüstung 60 -20
+  * Rüstung 60 
 * Helm: 
   * Rüstung 110 + Artefaktslot 
 * Magische Enterhaken Hand 
