@@ -7,7 +7,7 @@
 * race: Human
 * job: -> Schmied Lvl 3
   * 6 Skillpunkte der Wahl auf jede Rüstung
-* shinsu: 59 (76) -> 
+* shinsu: 59 (109) -> 
 * hp: 100 -> 
  
 ## stats
@@ -35,8 +35,8 @@
 ## Equipment
 
 ## Artefakte
-* Shinsugefäß 17
-* 
+* Shinsugefäß 50
+* Health Potion 50
 
 ### Weapons
 
@@ -46,7 +46,7 @@
 * Helm                     23 --> (23) _+3 str +3 dex_
 * Wintermantel             10
 * Rüstung                  300 --> (300) _+3 str + 3dex_
-  * Artefaktslot - Shinsu 17
+  * Artefaktslot - Shinsu 50
   * Drachenschuppen
     * halbiert Feuerschaden
   * versehen mit Kristallen (aufgeladen mit Strom x3)--> 1 aktiviert
