@@ -42,7 +42,7 @@
 * Stählerner Bulle
   * Rüstung 60 
 * Helm: 
-  * Rüstung 100
+  * Rüstung 110 + Artefaktslot 
 * Magische Enterhaken Hand 
 * Dolch
 * Kampfbumerang: 1*W6+2
