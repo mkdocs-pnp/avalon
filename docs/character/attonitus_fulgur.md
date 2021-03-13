@@ -50,7 +50,7 @@
   * Artefaktslot - Shinsu 50
   * Drachenschuppen
     * halbiert Feuerschaden
-  * versehen mit Kristallen (aufgeladen mit Strom x3)--> 1 aktiviert
+  * versehen mit Kristallen (aufgeladen mit Strom x3)--> 0 aktiviert
   * Mechanismus am Arm um Lähmungspfeile zu verschießen 
     * auf Shinsu Würfeln
 
