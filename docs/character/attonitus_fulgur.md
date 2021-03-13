@@ -35,7 +35,7 @@
 ## Equipment
 
 ## Artefakte
-* Shinsugefäß 50
+* Shinsugefäß 100
 * Health Potion 50
 
 ### Weapons
