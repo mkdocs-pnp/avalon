@@ -44,7 +44,7 @@
   * 10x Kristallpfeil (Elektro Aufladung - 50% stun chance) 
 * Blutstein                2w6 +11
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
-* Helm                     23 --> (23) _+3 str +3 dex_
+* Helm                     100 magische Vert. --> (100) _+3 str +3 dex_
 * Wintermantel             10
 * Rüstung                  1200 --> (1200) _+3 str + 3dex_
   * Artefaktslot - Shinsu 50
