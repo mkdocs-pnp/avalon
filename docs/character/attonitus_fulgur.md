@@ -46,7 +46,7 @@
 * schwarzer Tod            3W6 + _durchdringt Rüstung_
 * Helm                     100 magische Vert. --> (100) _+3 str +3 dex_
 * Wintermantel             10
-* Rüstung                  1200 --> (1200) _+3 str + 3dex_
+* Rüstung                  1200 --> (500) _+3 str + 3dex_
   * Artefaktslot - Shinsu 50
   * Drachenschuppen
     * halbiert Feuerschaden
